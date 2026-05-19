@@ -1,4 +1,4 @@
-# 
+# vip bot de trading de Deribit ejecutor es el mejor bot de trading de Deribit ejecutor con control de deslizamiento y soporte de webhook. Seguro, confiable y optimizado para
 
 
 
